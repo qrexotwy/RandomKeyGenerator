@@ -1,6 +1,9 @@
 # RandomKeyGenerator
 Two Different Key Gens. Generates Set Amount Of Random Keys. Made In Batch.
 
+## Info
+If you want to make the length of the key longer just edit it in the code.
+
 ## About
    - The NumKeyGen generates a 16 number long key.
    - The UUIDKeyGen generates a key in the form of a UUID.
