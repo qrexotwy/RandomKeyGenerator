@@ -1,16 +1,21 @@
 # RandomKeyGenerator
-Two Different Key Gens. Generates Set Amount Of Random Keys. Made In Batch.
+
+This script provides **two different key generators**. It generates a set number of random keys. Created using **Batch scripting**.
 
 ## Info
-If you want to make the length of the key longer just edit it in the code.
+You can easily modify the length of the generated keys by adjusting the code as per your needs.
 
 ## About
-   - The NumKeyGen generates a 16 number long key.
-   - The UUIDKeyGen generates a key in the form of a UUID.
+- **NumKeyGen** generates a key that is **16 characters** long, using numbers.
+- **UUIDKeyGen** generates a key in the format of a **UUID** (Universally Unique Identifier).
 
-## What They Look Like
-   - UUIDKeyGen ![image](https://github.com/user-attachments/assets/f2617196-e1a1-43f9-b2c1-afc8958f8d13)
+## Example Outputs
+- **UUIDKeyGen**  
+  ![image](https://github.com/user-attachments/assets/f2617196-e1a1-43f9-b2c1-afc8958f8d13)
 
-   - NumKeyGen ![image](https://github.com/user-attachments/assets/1001e6be-c723-4487-85a4-d68a635b8dc2)
+- **NumKeyGen**  
+  ![image](https://github.com/user-attachments/assets/1001e6be-c723-4487-85a4-d68a635b8dc2)
 
-     **Yes, they look the exact same. But it is called simple keygen for a reason.**
+---
+
+**Note**: While both key types may appear similar, they serve different purposes. **NumKeyGen** is simpler, while **UUIDKeyGen** adheres to the standard UUID format. This is why the tool is called a "simple keygen."
