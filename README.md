@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/G4z4cmGR/Key-Gens-Icon.png)
+![Logo]([https://i.ibb.co/G4z4cmGR/Key-Gens-Icon.png](https://i.postimg.cc/VvyVNjvY/Key-Gens-Icon.png))
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 # RandomKeyGenerators
