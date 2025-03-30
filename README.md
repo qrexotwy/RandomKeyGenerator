@@ -2,7 +2,6 @@
 ![Logo](https://i.postimg.cc/cJpm7dSh/Key-Gens-Icon-1.png)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Youtube](https://www.youtube.com/@CerealPuffer)
 # RandomKeyGenerators
 
 This script provides **two different key generators**. It generates a set number of random keys. Created using **Batch scripting**.
