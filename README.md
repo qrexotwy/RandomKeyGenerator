@@ -1,6 +1,14 @@
-# RandomKeyGenerator
+
+![Logo](https://i.ibb.co/G4z4cmGR/Key-Gens-Icon.png)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+# RandomKeyGenerators
 
 This script provides **two different key generators**. It generates a set number of random keys. Created using **Batch scripting**.
+
+## Feedback
+
+If you have any feedback, let me know in the [issues](https://github.com/qrexotwy/RandomKeyGenerator/issues) tab.
 
 ## Info
 You can easily modify the length of the generated keys by adjusting the code as per your needs.
